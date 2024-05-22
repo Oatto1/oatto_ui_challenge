@@ -3,7 +3,7 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:oatto_ui_challenge/attribute_widget.dart';
+import 'package:oatto_ui_challenge/widget/attribute_widget.dart';
 import 'package:provider/provider.dart';
 import 'package:quickalert/quickalert.dart';
 

@@ -4,7 +4,7 @@ import 'package:provider/provider.dart';
 
 import 'layout/add_hero.dart';
 import 'model/hero_model.dart';
-import 'hero_widget.dart';
+import 'widget/hero_widget.dart';
 import 'provider/oattmodel.dart';
 
 class MainPage extends StatefulWidget {

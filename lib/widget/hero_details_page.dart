@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:oatto_ui_challenge/attribute_widget.dart';
+import 'package:oatto_ui_challenge/widget/attribute_widget.dart';
 
-import 'model/hero_model.dart';
+import '../model/hero_model.dart';
 
 class HeroDetailsPage extends StatefulWidget {
   final HeroModel hero;
